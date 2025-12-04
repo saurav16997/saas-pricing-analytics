@@ -15,6 +15,8 @@ One of the most significant findings from this analysis is the premium placed on
 * **The Data:** Plans including **Single Sign-On (SSO)** cost an average of **$34.70/user/month**, compared to **$17.85** for standard plans.  
 * **The Insight:** Companies use security features as a "gatekeeper" to force mid-sized companies into Enterprise tiers, effectively **doubling** the Average Revenue Per User (ARPU).  
 * **Recommendation:** For B2B SaaS, keeping SSO gated is a massive lever for ARPU expansion.
+![pricing](https://github.com/user-attachments/assets/24465eb1-6e4e-4495-9e78-a150c2dd3e68)
+
 
 ### **2\. 📉 The Retail Industry "Churn Trap"**
 
@@ -22,10 +24,14 @@ One of the most significant findings from this analysis is the premium placed on
 * **Strategic Shift:** In contrast, **Technology** and **Consulting** sectors showed much stronger retention.  
 * **Action:** Marketing spend should be diverted away from Retail and focused on high-retention sectors to improve Customer Lifetime Value (LTV).
 
+![industry_strategy](https://github.com/user-attachments/assets/6250247f-ef4e-4696-ae96-b52183232746)
+
 ### **3\. 🏆 Market Positioning Matrix**
 
 * **The "Whale Hunter":** **ClickUp** targets high-value users with an ARPU \>$90, focusing on extracting maximum value from fewer customers.  
 * **The "Net Caster":** **Trello** plays the volume game (Product-Led Growth), capturing massive user counts at a lower price point (\~$4 ARPU).
+
+![leaderboard](https://github.com/user-attachments/assets/f6951aef-0c35-4bd8-b2d7-6720be57c74b)
 
 ## **🛠 Technical Architecture**
 
