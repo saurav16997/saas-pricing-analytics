@@ -1,0 +1,5 @@
+Tier,Price,Features
+Free,Free,1000 records per base | 1GB attachments | 100 automation runs | Up to 5 editors | Unlimited bases
+Team,$20,50000 records per base | 25000 automations | 25GB attachments | Gantt view | Sync integrations
+Business,$45,125000 records per base | 100000 automations | 100GB attachments | Admin panel | SAML SSO | Two-way sync
+Enterprise,Contact sales,500000 records per base | 500000 automations | 1TB attachments | Advanced security | Audit logs | Enterprise API

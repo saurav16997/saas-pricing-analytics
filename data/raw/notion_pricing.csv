@@ -1,7 +1,5 @@
 Tier,Price,Features
-Free,$0,"Trial of Notion AI | Free for individual usage | Basic forms | Basic sites | Notion Calendar | Notion Mail (Syncs with Gmail) | Databases including subtasks, dependencies, custom properties and more"
-Plus,$10,Trial of Notion AI | Unlimited collaborative blocks | Unlimited file uploads | Unlimited charts | Custom forms | Custom sites | Basic integrations
-Business,$20,"Enterprise search
-Beta | AI meeting notesBeta | Research modeBeta | SAML SSO | Granular database permissions | Verify any page | Private teamspaces | Conditional forms logic | Domain verification | Premium integrations"
-Enterprise,Contact sales,"Trial of Notion AI | Free for individual usage | Basic forms | Basic sites | Notion Calendar | Notion Mail (Syncs with Gmail) | Databases including subtasks, dependencies, custom properties and more | Unlimited collaborative blocks | Unlimited file uploads | Unlimited charts | Custom forms | Custom sites | Basic integrations | Enterprise search
-Beta | AI meeting notesBeta | Research modeBeta | SAML SSO | Granular database permissions"
+Free,Free,"Trial of Notion AI | Free for individual usage | Basic forms | Basic sites | Notion Calendar | Notion Mail (Syncs with Gmail) | Databases including subtasks, dependencies, custom properties and more"
+Plus,$10,Unlimited AI | Unlimited file uploads | Version history | Advanced permissions | 100+ integrations | Priority support
+Business,$20,SAML SSO | Advanced security | Bulk export | Custom onboarding | Admin tools | Private teamspaces
+Enterprise,Contact sales,Advanced controls | Audit logs | User provisioning | Dedicated success manager | Custom contract | 99.9% uptime SLA

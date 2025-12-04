@@ -1,4 +1,11 @@
 company,pricing_url,notes
-Notion,https://www.notion.so/pricing,static page, tier cards
+Notion,https://www.notion.so/pricing,static page tier cards
 ClickUp,https://clickup.com/pricing,may be js loaded
 Asana,https://asana.com/pricing,static
+Airtable,https://airtable.com/pricing,static
+Coda,https://coda.io/pricing,static
+Trello,https://trello.com/pricing,static
+Figma,https://www.figma.com/pricing/,static
+Monday,https://monday.com/pricing,static
+Linear,https://linear.app/pricing,static
+Miro,https://miro.com/pricing,static
