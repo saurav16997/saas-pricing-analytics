@@ -77,36 +77,37 @@ Built an interactive "North Star" dashboard for executive decision-making.
 The Executive "North Star" View
 
 A high-level health check showing real-time Market Size, Total Revenue, and Churn Risk.
-
-![leaderboard](https://github.com/user-attachments/assets/b5744cf1-5bad-4ebf-ba95-3dc5febe7937)
+![leaderboard](https://github.com/user-attachments/assets/1addd33d-3a7d-4cdf-8f46-39e7664fcc7d)
 
 
 Strategic Segmentation
 
 Visualizing the trade-off between Revenue (ARPU) and Risk (Churn) across different industries.
-![pricing](https://github.com/user-attachments/assets/f0fc64f8-6907-4e2d-935e-ea43bb37d1dd)
-![industry_strategy](https://github.com/user-attachments/assets/e9a0f80d-4f77-4a08-b8b6-a536de6a9b7d)
+
+![pricing](https://github.com/user-attachments/assets/0eb6b2d2-ae30-456b-9e0b-dfa749e684d3)
+![industry_strategy](https://github.com/user-attachments/assets/98bb8257-542a-4f29-9e78-916dddb84681)
 
 
 ⚙️ How to Run Locally
 
-Clone the Repository
+1. Clone the Repository
 
 git clone [https://github.com/saurav16997/saas-pricing-analytics.git](https://github.com/saurav16997/saas-pricing-analytics.git)
 cd saas-pricing-analytics
 
 
-Install Dependencies
+2. Install Dependencies
 
 pip install -r requirements.txt
 
 
-Launch the Dashboard
+3. Launch the Dashboard
 
 streamlit run src/dashboard/app.py
 
 
-(Optional) Run Analytical Scripts
+4. (Optional) Run Analytical Scripts
+
 To re-process the data and generate new CSV reports:
 
 python src/analysis/run_comparative_analysis.py
